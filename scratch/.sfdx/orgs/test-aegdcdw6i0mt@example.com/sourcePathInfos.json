@@ -1,0 +1,155 @@
+[
+    [
+        "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566911903924,
+            "changeTime": 1566911903924,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566911903925,
+            "changeTime": 1566911903925,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566914288634,
+            "changeTime": 1566914288634,
+            "contentHash": "abed2654d84706c55c2415cd0c6e1c16e94c607b"
+        }
+    ],
+    [
+        "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566911903925,
+            "changeTime": 1566911903925,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566911903926,
+            "changeTime": 1566911903926,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566912859256,
+            "changeTime": 1566912859256,
+            "contentHash": "465b87829d8e1618646ef8b1cc2f3bf39c4c343b",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\classes\\test.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\classes\\test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1566914288610,
+            "changeTime": 1566914288610,
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871"
+        }
+    ],
+    [
+        "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\classes\\test.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\classes\\test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 20,
+            "modifiedTime": 1566914288616,
+            "changeTime": 1566914288616,
+            "contentHash": "1f57376e7a7631286415c7dd5d7ed98cf75f1531"
+        }
+    ],
+    [
+        "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19533,
+            "modifiedTime": 1566914288652,
+            "changeTime": 1566914288652,
+            "contentHash": "c919ef205381ec7ea32e1dbb7a072b065391c3fd"
+        }
+    ],
+    [
+        "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566914288615,
+            "changeTime": 1566914288615,
+            "contentHash": "f35d7df9043b8eb0f9d49a7ec1f11c6a974a0822"
+        }
+    ],
+    [
+        "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Pavel\\Public\\CustomerTimes\\scratch\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1566914288651,
+            "changeTime": 1566914288651,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
